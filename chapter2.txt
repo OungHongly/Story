@@ -1,1 +1,3 @@
 funtion chapter2 main
+
+function{no bug}
