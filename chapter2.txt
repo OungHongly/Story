@@ -1,3 +1,1 @@
 funtion chapter2 main
-
-funtion1{bug}
