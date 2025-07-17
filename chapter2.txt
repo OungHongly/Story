@@ -1,5 +1,5 @@
 funtion chapter2 main
 
-funtion1{bug}
+function{no bug}
 
 new feature chapter2
