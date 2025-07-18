@@ -3,5 +3,5 @@ funtion chapter2 main
 function{no bug}
 
 new feature chapter2
-new feature v2
+new feature v2 fix function v2
 add function
